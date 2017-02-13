@@ -1,0 +1,54 @@
+{
+  "job": {
+    "job": [
+      {
+        "job": [
+          {
+            "incumbent": "Michael D. Fascitelli", 
+            "title": "Director of HR"
+          }, 
+          {
+            "incumbent": "Richard Kinder", 
+            "title": "Director of Finance"
+          }
+        ], 
+        "incumbent": "Ralph Lauren", 
+        "title": "COO"
+      }, 
+      {
+        "job": [
+          {
+            "incumbent": "Michael James", 
+            "title": "Manager of West"
+          }, 
+          {
+            "incumbent": "Sarah Lauren", 
+            "title": "Manager of Midwest"
+          }, 
+          {
+            "incumbent": "Adam Smith", 
+            "title": "Manager of East"
+          }
+        ], 
+        "incumbent": "William Peter", 
+        "title": "VP Sales"
+      }, 
+      {
+        "job": [
+          {
+            "incumbent": "David Martin", 
+            "title": "Assistant VP Widgets"
+          }, 
+          {
+            "incumbent": "Paul Davis", 
+            "title": "Assistant VP Gadgets"
+          }
+        ], 
+        "incumbent": "Betty Lewis", 
+        "title": "VP Projucts"
+      }
+    ], 
+    "incumbent": "John H Hammergren", 
+    "title": "CEO"
+  }
+}

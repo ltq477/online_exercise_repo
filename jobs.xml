@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<job title="CEO" incumbent="John H Hammergren">
+  <job title="COO" incumbent="Ralph Lauren">
+    <job title="Director of HR" incumbent="Michael D. Fascitelli"/>
+    <job title="Director of Finance" incumbent="Richard Kinder"/>
+  </job>
+  <job title="VP Sales" incumbent="William Peter">
+    <job title="Manager of West" incumbent="Michael James"/>
+    <job title="Manager of Midwest" incumbent="Sarah Lauren"/>
+    <job title="Manager of East" incumbent="Adam Smith"/>
+  </job>
+  <job title="VP Projects" incumbent="Betty Lewis">
+    <job title="Assistant VP Widgets" incumbent="David Martin"/>
+    <job title="Assistant VP Gadgets" incumbent="Paul Davis"/>
+  </job>
+</job>
+
